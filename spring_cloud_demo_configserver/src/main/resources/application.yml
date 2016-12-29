@@ -7,3 +7,6 @@ spring:
       server:
         git:
           uri: https://github.com/tordbjoe/spring_cloud_demo_configrepo
+          search-paths:
+            - glucose
+            - tests
